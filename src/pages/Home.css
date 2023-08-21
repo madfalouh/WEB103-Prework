@@ -1,0 +1,9 @@
+.creators-container {
+gap: 20px;
+width: 100%;
+padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
